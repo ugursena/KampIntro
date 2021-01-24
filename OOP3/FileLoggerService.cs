@@ -8,7 +8,7 @@ namespace OOP3
     {
         public void Log()
         {
-            Console.WriteLine("Dosyaya bağlandı");
+            Console.WriteLine("Dosyaya loglandı.");
 
         }
     }
