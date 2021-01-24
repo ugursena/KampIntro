@@ -5,15 +5,19 @@ using System.Text;
 namespace OOP2
 {
     //İş sınıfları // business classes
-    class MusteriManager
-
+    class CustomerManager
     {
-        public void Ekle(Musteri musteri)
+
+        public void Add(Customer customer)
         {
-            //if (musteri.)
+            //if (customer.)
             //{
 
             //}
+            Console.WriteLine(customer.Id + " Üyelik aktifleştirildi."); 
+            Console.WriteLine(customer.CustomerNo + " Üyelik aktifleştirildi.");
         }
     }
+
+    
 }

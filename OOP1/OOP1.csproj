@@ -5,12 +5,4 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
-  <ItemGroup>
-    <None Remove="Cooparete" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Compile Include="Cooparete" />
-  </ItemGroup>
-
 </Project>
